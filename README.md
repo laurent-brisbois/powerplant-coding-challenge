@@ -19,3 +19,15 @@ To stop the app, use :
 ```bash
 $ docker compose stop
 ```
+
+# How to run the tests ?
+
+Simply run :
+
+```bash
+pytest
+```
+
+from the root directory.
+
+Pytest must be installed of course.
